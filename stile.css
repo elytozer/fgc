@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color: chartreuse;
+    text-align: center;
+}
+body{
+    background-color:white;
+}
+h4{
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
